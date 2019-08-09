@@ -1,3 +1,7 @@
+The backend of this project can be found at https://github.com/ashar-sarwar/pointOfSale-backend
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
